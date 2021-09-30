@@ -1,6 +1,6 @@
 # SingleMoleculeTransportAssay
 modified matlab scripts that originally appear in SPARTAN software (Juette et.al., 2013, Nature Methods) for turnover time calculation of single molecule transport trajectories. 
-[Turnover Time]
+/[Turnover Time]
 make sure all responding trajectories and their corresponding response times are in the same folder
 and make sure you are calling 'Turnover Time' function from within that folder
 create a folder called 'fits'
